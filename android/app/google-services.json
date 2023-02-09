@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414854301901",
+    "project_id": "chops-chat",
+    "storage_bucket": "chops-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414854301901:android:576e2aca313464b55ec184",
+        "android_client_info": {
+          "package_name": "com.example.my_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414854301901-pl1p8f6r6hu23vg0mg2echp6l57c7r94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAqUmd2gfRV9NIsfQVvFtBuyNqaqY-m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414854301901-pl1p8f6r6hu23vg0mg2echp6l57c7r94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
